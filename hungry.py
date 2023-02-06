@@ -7,5 +7,6 @@ else:
     thristy=inout("are u thristy")
     if thristy=="yes":
         print("drink water")
+        print("drink soda")
 
     print("Do your Homework")
