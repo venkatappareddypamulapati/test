@@ -6,3 +6,4 @@ if hungry =="yes"  and hungry=="Y":
     print("eat fries")
 else:
     print("Do your Homework")
+    print("don't eat much you will get sleep")
